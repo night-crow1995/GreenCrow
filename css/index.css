@@ -1,3 +1,11 @@
+  @font-face {
+    font-family: LICA;
+    src: url(../Love_Is_Complicated_Again.ttf);
+  }
   html {
-      font-family: 'DaisyWheel', sans-serif;
+      /* font-family: 'DaisyWheel', sans-serif; */
+      /* font-family: 'JaleasDemo',sans-serif; */
+      font-family: 'LICA',sans-serif;
+      background-color: black;
+      color: aliceblue;
   }
